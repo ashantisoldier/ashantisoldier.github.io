@@ -6,9 +6,9 @@ body {
 }
 
 .exp-header {
-Text-align: center;
-Text-transform: uppercase;
-Border-top: 1px solid #dddddd;
-Background-color: rgba(0,0,0,0.1)
+text-align: center;
+text-transform: uppercase;
+border-top: 1px solid #dddddd;
+border-top: 1px solid #dddddd;
+background-color: rgba(0,0,0,0.1)
 }
-
