@@ -12,3 +12,12 @@ border-top: 1px solid #dddddd;
 border-top: 1px solid #dddddd;
 background-color: rgba(0,0,0,0.1)
 }
+
+.header {
+text-align: center;
+text-transform: uppercase;
+border: 1px solid black;
+border-top: 1px solid #dddddd;
+border-top: 1px solid #dddddd;
+background-color: rgba(0,0,0,0.1)
+}
